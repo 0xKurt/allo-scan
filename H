@@ -1,0 +1,1 @@
+g[![PR - Run All Tests](https://github.com/ietf-tools/datatracker/actions/workflows/ci-run-tests.yml/badge.svg)](https://github.com/ietf-tools/datatracker/actions/workflows/ci-run-tests.yml)
